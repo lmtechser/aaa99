@@ -10,6 +10,7 @@
           <field name="name"/>
           <field name="value"/>
           <field name="value2"/>
+          <field name="start_datetime"/>
         </tree>
       </field>
     </record>
